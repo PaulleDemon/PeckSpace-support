@@ -4,6 +4,7 @@
 * Create private communities
 * Optimizations.
 * Update design.
+* improve grid system for desktop users.
 
 
 # peck woods V3:
