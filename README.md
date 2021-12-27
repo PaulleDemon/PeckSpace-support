@@ -11,7 +11,7 @@ report bugs, request features, ask for help here.
 1. Give an approptiate title for the issue
 2. Describe the exact steps to reproduce.
 3. Describe what you expected to happen, and what you instead observed.
-4. Upload images/gifs only if its necessary.
+4. Upload images/gifs only if necessary.
 
 
-**[roadmap](https://github.com/PaulleDemon/Peck-woods-web/blob/main/Roadmap.md)
+Want to know whats upcoming in peckwoods? visit [**Roadmap**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/Roadmap.md) .
