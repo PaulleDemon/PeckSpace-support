@@ -31,7 +31,7 @@ Company Name reserves the right to monitor all Comments and to remove any Commen
 You warrant and represent that:
 
 * you own the content you post on the website. The peckwoods is in no way responsible for the conetent you post on the website.
-* you will not post pornographic contents.
+* you will not post pornographic content.
 * No content that causes harm to others.
 * You will not use the website to harrass other users of the website.
 * You will if necessary remove posts that are not appropriate to the website
