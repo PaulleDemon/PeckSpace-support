@@ -37,3 +37,13 @@ Once activation is done you can follow the below instructions.
 ![load posts](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/posts.png)
 
 * Scroll down to load more posts.
+
+
+profile and dashboard image attribution:
+
+dashboard:
+Photo by <a href="https://unsplash.com/@timswaanphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Swaan</a> on <a href="https://unsplash.com/s/photos/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+profile:
+ Photo by <a href="https://unsplash.com/@ahmedvevo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ahmedvevo</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
