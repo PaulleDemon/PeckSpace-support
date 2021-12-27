@@ -19,14 +19,20 @@ Once activation is done you can follow the below instructions.
 * click on comment to add comments.
 
 
-### updating profile.
+### sidebar:
+![sidebar](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/side-bar.png)
+
+* chose the page you wan't to visit from the sidebar.
+* To close side bar click on x button on the top left corner.
+
+### updating profile:
 ![edit profile](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/updated%20profile.png)
 
 * click on edit button to edit your profile. On clicking the edit button you will be able to edit your profile.
 
 ![](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/update%20user%20info.png)
 
-### Loading more posts.
+### Loading more posts:
 
 ![load posts](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/posts.png)
 
