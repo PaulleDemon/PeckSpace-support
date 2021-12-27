@@ -1,13 +1,13 @@
 # peck woods V2:
 
-* create private chats.
-* create private communities
-* optimizations.
-* update design.
+* Create private chats.
+* Create private communities
+* Optimizations.
+* Update design.
 
 
 # peck woods V3:
-* optimization.
+* Optimization.
 * Enable reset password and email.
-* design changes.
-* enable light theme.
+* Design changes.
+* Enable light theme.
