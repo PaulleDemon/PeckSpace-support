@@ -1,10 +1,10 @@
 # Peck-woods-web
-Support, bug, issues for peckwoods
+This repository is created to provide support and create issues for peckwoods
 
-report bugs, request features, ask for help here.
+Report bugs, request features, ask for help here.
 
 
-#### If you are new to reporting bugs please read the below carefully.
+### If you are new to reporting bugs please read the below carefully.
 
 * click on issues tab on this page then click on new Issue buttton and follow the below steps
 
@@ -14,4 +14,4 @@ report bugs, request features, ask for help here.
 4. Upload images/gifs only if necessary.
 
 
-Want to know whats upcoming in peckwoods? visit [**Roadmap**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/Roadmap.md) .
+#### Want to know whats upcoming in peckwoods? visit [**Roadmap**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/Roadmap.md) .
