@@ -11,3 +11,4 @@
 * Enable reset password and email.
 * Design changes.
 * Enable light theme.
+* increase upload limit to 25mb and compress files in the backend
