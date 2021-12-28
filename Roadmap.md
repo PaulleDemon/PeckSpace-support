@@ -8,6 +8,7 @@
 * push posts to top in UI
 * improve trending posts.
 * improve search
+* add camera component.
 
 
 # peck woods V3:
