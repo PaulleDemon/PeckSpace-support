@@ -5,7 +5,6 @@
 * Optimizations.
 * Update design.
 * improve grid system for desktop users.
-* push posts to top in UI
 * improve trending posts.
 * improve search
 * add camera component.
