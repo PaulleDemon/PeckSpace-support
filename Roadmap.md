@@ -1,7 +1,9 @@
 # peck woods V2:
 
 * Create private chats.
-* Create private communities
+* Create private communities.
+* optimize videos in the backend.
+* Allow moderators of the community to edit the profile of the community
 * Optimizations.
 * Update design.
 * improve grid system for desktop users.
@@ -16,3 +18,4 @@
 * Design changes.
 * Enable light theme.
 * increase upload limit to 25mb and compress files in the backend
+* disable notification for specific posts.
