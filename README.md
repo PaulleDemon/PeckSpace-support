@@ -1,6 +1,6 @@
 # Peck-woods-web
 
-![peckwoods logo](https://github.com/PaulleDemon/Peck-woods-web/blob/main/logos/peckwoodsblack.png)
+![peckwoods logo](https://github.com/PaulleDemon/Peck-woods-web/blob/main/logos/github-peckwoodstemplate.png)
 
 This repository is created to provide support and create issues for peckwoods
 
