@@ -76,7 +76,6 @@ As long as the website and the information and services on the website are provi
 
 Below are the some rules to be followed on this website to keep everyone.
 
-You warrant and represent that:
 
 Allowed/Disallowed contents on the website:
 * You own the content you post on the website. The peckwoods is in no way responsible for the content you post on the website.
