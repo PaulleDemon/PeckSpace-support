@@ -22,6 +22,7 @@ Republish material from Website Name
 Sell, rent or sub-license material from Website Name
 Reproduce, duplicate or copy material from Website Name
 Redistribute content from Website Name
+Cause any form of harm to the website and its users
 This Agreement shall begin on the date hereof.
 
 Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Company Name does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Company Name,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Company Name shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
@@ -74,8 +75,7 @@ The limitations and prohibitions of liability set in this Section and elsewhere 
 
 As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
-Below are the some rules to be followed on this website to keep everyone.
-
+Below are the some rules to followed when using this website.
 
 Allowed/Disallowed contents on the website:
 * You own the content you post on the website. The peckwoods is in no way responsible for the content you post on the website.
