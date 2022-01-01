@@ -28,14 +28,6 @@ Parts of this website offer an opportunity for users to post and exchange opinio
 
 Company Name reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
 
-You warrant and represent that:
-
-* you own the content you post on the website. The peckwoods is in no way responsible for the conetent you post on the website.
-* you will not post pornographic content.
-* No content that causes harm to others.
-* You will not use the website to harrass other users of the website.
-* You will if necessary remove posts that are not appropriate to the website
-
 We may consider and approve other link requests from the following types of organizations:
 
 commonly-known consumer and/or business information sources;
@@ -81,3 +73,15 @@ exclude any of our or your liabilities that may not be excluded under applicable
 The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
 
 As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
+
+Below are the some rules to be followed on this website to keep everyone.
+
+You warrant and represent that:
+
+Allowed/Disallowed contents on the website:
+* You own the content you post on the website. The peckwoods is in no way responsible for the content you post on the website.
+* You shall not post any content that can causes harm to others.
+* You shall not post any pornographic content.
+* You will not use the website to harrass other users of the website.
+* You shall if necessary remove posts that are not appropriate to the website.
+* You shall not post any copyrighted content without the permission from the copyright holder.
