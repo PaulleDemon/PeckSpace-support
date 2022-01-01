@@ -1,4 +1,7 @@
 # Peck-woods-web
+
+![peckwoods logo](https://github.com/PaulleDemon/Peck-woods-web/blob/main/logos/peckwoodsblack.png)
+
 This repository is created to provide support and create issues for peckwoods
 
 Report bugs, request features, ask for help here.
