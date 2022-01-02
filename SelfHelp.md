@@ -12,7 +12,7 @@ Once activation is done you can follow the below instructions.
 ### registering:
 ![Registering](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/registration.png)
 
-* Register with a valid you will later be sent a activation mail before you can post any posts on the website.
+* Register with a valid mail id you will later be sent a activation mail to activate your account, before you can post any posts on the website.
 * Give youself a tag. The tag is a way for people to identify you in the website. Once a tag is chosen it cannot be changed later. 
 * User name could be your name. You can change this later if you choose to.
 * Choose a strong password and retype the same password in the retype password field.
