@@ -18,3 +18,4 @@ Report bugs, request features, ask for help here.
 
 
 #### Want to know whats upcoming in peckwoods? visit [**Roadmap**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/Roadmap.md) .
+#### Get Started guide: [**getting started**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/SelfHelp.md)
