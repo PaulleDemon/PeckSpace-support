@@ -9,7 +9,7 @@ Once activation is done you can follow the below instructions.
 ![Main window](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/posts.png)
 
 
-### registering:
+### Registering:
 ![Registering](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/registration.png)
 
 * Register with a valid mail id you will later be sent a activation mail to activate your account, before you can post any posts on the website.
@@ -19,7 +19,7 @@ Once activation is done you can follow the below instructions.
 * Type in your DOB this is just to make sure you are older that 10. 
 
 
-### overview:
+### Overview:
 ![overview](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/peckwood-desctipiton.png)
 
 * click on create icon to create new posts, communities and or community posts.
@@ -29,13 +29,13 @@ Once activation is done you can follow the below instructions.
 * click on comment to add comments.
 
 
-### sidebar:
+### Sidebar:
 ![sidebar](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/side-bar.png)
 
 * chose the page you wan't to visit from the sidebar.
 * To close side bar click on x button on the top left corner.
 
-### updating profile:
+### Updating profile:
 ![edit profile](https://github.com/PaulleDemon/Peck-woods-web/blob/main/peckwoods%20documentation%20images/updated%20profile.png)
 
 * click on edit button to edit your profile. On clicking the edit button you will be able to edit your profile.
