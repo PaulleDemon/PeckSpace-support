@@ -1,4 +1,4 @@
-# Self help: 
+# Self help (legacy - this is for previous version of Peckwoods): 
 
 Once you register you will be sent a activation mail please click on the link and activate your account.
 
