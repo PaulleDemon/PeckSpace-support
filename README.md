@@ -6,6 +6,8 @@ This repository is created to provide support and create issues for peckwoods
 
 Report bugs, request features, ask for help here.
 
+### Self help 
+[Self help guide](https://github.com/PaulleDemon/Peck-woods-web/blob/main/self-help.md)
 
 ### If you are new to reporting bugs please read the below carefully.
 
