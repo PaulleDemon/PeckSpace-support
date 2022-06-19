@@ -1,8 +1,8 @@
-# Peck-woods-web
+# Peck space support
 
-![peckwoods logo](https://github.com/PaulleDemon/Peck-woods-web/blob/main/logos/github-peckwoodstemplate.png)
+![peckspace logo](https://github.com/PaulleDemon/Peck-woods-web/blob/main/logos/github-peckwoodstemplate.png)
 
-This repository is created to provide support and create issues for peckwoods
+This repository is created to provide support and create issues for peckspace
 
 Report bugs, request features, ask for help here.
 
@@ -19,5 +19,5 @@ Report bugs, request features, ask for help here.
 4. Upload images/gifs only if necessary.
 
 
-#### Want to know whats upcoming in peckwoods? visit [**Roadmap**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/Roadmap.md) .
+#### Want to know whats upcoming in peckspace? visit [**Roadmap**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/Roadmap.md) .
 #### Getting Started guide: [**getting started**](https://github.com/PaulleDemon/Peck-woods-web/blob/main/SelfHelp.md)
